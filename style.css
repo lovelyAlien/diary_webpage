@@ -1,0 +1,14 @@
+#control { 
+    margin-bottom : 40px;
+    text-align : right;
+}
+
+body.black{
+    background-color : black;
+    color : white;
+}
+
+body.white{
+    background-color : white;
+    color : black;
+}
